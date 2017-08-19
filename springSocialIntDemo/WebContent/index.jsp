@@ -11,7 +11,7 @@
 <div
 		style="margin: 0 auto; background-image: url(./img/fbloginbckgrnd.jpg); height: 360px; width: 610px;">
 		<a href="<%=connectionUtility.getFBAuthUrl()%>"> <img
-			style="margin-top: 138px;" src="./img/facebookloginbutton.png" />
+			style="margin-top: 138px;" src="./img/facebookloginbutton.png" /> 
 		</a>
 	</div>
 </body>
